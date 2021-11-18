@@ -1,5 +1,3 @@
-### Thanks to github.com/rappercodes for making a working version
-
 from dotenv import load_dotenv
 
 load_dotenv()
